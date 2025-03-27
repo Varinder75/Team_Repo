@@ -1,6 +1,10 @@
 # Team_Repo
 # Food Delivery Prediction System
 
+## Team members:
+1. Satvir Kaur Mehra
+2. Varinder Kaur
+   
 ## Project Overview
 
 This project aims to develop a machine learning system that predicts potential delays in food hamper deliveries, helping optimize logistics and improve the efficiency of food bank operations. The system allows for better planning, proactive identification of delays, and efficient resource allocation.
