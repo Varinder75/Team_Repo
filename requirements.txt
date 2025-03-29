@@ -9,3 +9,4 @@ statsmodels
 scipy
 jupyter
 plotly
+shap
