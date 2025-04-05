@@ -10,3 +10,4 @@ scipy
 jupyter
 plotly
 shap
+sentence-transformers
