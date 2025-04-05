@@ -10,5 +10,6 @@ scipy
 jupyter
 plotly
 shap
-sentence-transformers
-transformers
+sentence-transformers==2.2.0
+transformers==4.24.0
+torch==1.12.1
