@@ -11,3 +11,4 @@ jupyter
 plotly
 shap
 sentence-transformers
+transformers
