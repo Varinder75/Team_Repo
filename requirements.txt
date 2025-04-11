@@ -1,5 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+transformers==4.26.1
+tokenizers==0.13.3
+sentence-transformers==2.2.2
 pandas
 numpy
+streamlit==1.30.0
 matplotlib
 seaborn
 scikit-learn
@@ -11,7 +16,3 @@ jupyter
 plotly
 shap
 torch>=2.2.0
-sentence-transformers==2.2.2
-tokenizers==0.13.3
-transformers==4.26.1
-streamlit==1.30.0
